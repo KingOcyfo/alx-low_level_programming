@@ -1,1 +1,1 @@
-This project is giving us some insight into C
+This project is shedding some more light into C

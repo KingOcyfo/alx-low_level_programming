@@ -1,1 +1,1 @@
-This project is aboutt C-programming
+This project is about C-programming language
