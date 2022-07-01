@@ -1,1 +1,1 @@
-This project is shedding some more light into C
+This project is about C programming
