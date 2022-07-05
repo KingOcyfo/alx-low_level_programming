@@ -1,2 +1,1 @@
-This repository is documenting C as a low level programming language
-This repo is about C
+This project is about C loops and fuctions
