@@ -1,1 +1,1 @@
-This project is about C loops and fuctions
+This project is about C functions and neated loops
