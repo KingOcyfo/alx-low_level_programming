@@ -3,15 +3,16 @@
 /**
  * _puts - Prints a string
  * @str: The string to print
- *
- * Return: void
+ * Return: string
  */
+
 void _puts(char *str)
 {
-for (; *str != '\0'; str++)
-{
-_putchar(*str);
-}
+int i;
 
-_putchar('\n'0;
+for (i = 0; str[i] != '\0'; i++)
+{
+_putchar(str[i]);
+}
+_putchar('\n');
 }
