@@ -2,25 +2,17 @@
 
 /**
  * print_rev - prints a string in reverse
- * @s: string input
- * Return: no return
+ * @s: string reference pointer
+ * Return: 0
  */
 
 void print_rev(char *s)
 {
-int count = 0;
+int i = 0;
 
-while (*s != '\0')
-{
-s++;
-count++;
-}
-
-while (count > 0)
-{
-s--;
-_putchar(*s);
-count--;
-}
-_putchar('\0');
+while (s[i])
+i++;
+while (i--)
+_putchar(s[i]);
+_putchar('\n');
 }
